@@ -1,6 +1,7 @@
 openwrt系统下载（不同版本、选择适合自己的版本就可以了）
 原本
 https://downloads.openwrt.org/releases/24.10.1/targets/x86/generic/
+
 大神修改版
 https://openwrt.ai/?target=x86%2F64&id=generic
 https://downloads.openwrt.org/releases/24.10.1/targets/x86/generic/
